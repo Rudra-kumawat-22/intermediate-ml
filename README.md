@@ -4,3 +4,4 @@
 ['categorical values](https://www.kaggle.com/rudrakumawat22/exercise-categorical-variables).
 [pipelines](https://www.kaggle.com/rudrakumawat22/exercise-pipelines).
 [cross validation](https://www.kaggle.com/rudrakumawat22/exercise-cross-validation).
+['XG BOOST](https://www.kaggle.com/rudrakumawat22/exercise-xgboost).
